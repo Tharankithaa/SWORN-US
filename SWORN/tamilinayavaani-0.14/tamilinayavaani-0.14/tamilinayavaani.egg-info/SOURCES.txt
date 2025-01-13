@@ -1,0 +1,15 @@
+README.rst
+setup.py
+tamilinayavaani/__init__.py
+tamilinayavaani/__main__.py
+tamilinayavaani/from_Csharp.py
+tamilinayavaani/parse_words.py
+tamilinayavaani/vaani.py
+tamilinayavaani.egg-info/PKG-INFO
+tamilinayavaani.egg-info/SOURCES.txt
+tamilinayavaani.egg-info/dependency_links.txt
+tamilinayavaani.egg-info/requires.txt
+tamilinayavaani.egg-info/top_level.txt
+tamilinayavaani/json/db.lint.valid.json
+tamilinayavaani/koppu/Error Annotated Corpus.csv
+tamilinayavaani/koppu/user.txt
